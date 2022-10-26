@@ -34,7 +34,7 @@
   <br>
   <br>
 </div>
-  <div>
+  <div align="center">
     <h3>Tech skills</h3>
     <h3>nodeJS | CSS | HTML | Express | React | Redux | PostgreSQL | Sequelize | MongoDB | ReactNative | Tailwind</h3>
   </div>
