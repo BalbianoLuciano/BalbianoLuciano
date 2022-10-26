@@ -31,4 +31,22 @@
     <br /> 
     Gracias por tu tiempo!
   </h3>
+   <br>
+    <br>
+    <br>
+    <br>
+    <h3>Tech skills</h3>
+    <ul>
+        <li>nodeJs</li>
+        <li>CSS</li>
+        <li>Html</li>
+        <li>Express</li>
+        <li>React</li>
+        <li>Redux</li>
+        <li>PostgreSQL</li>
+        <li>Sequelize</li>
+        <li>MongoDB</li>
+        <li>ReactNative</li>
+        <li>Tailwind</li>
+    </ul>
 </div>
