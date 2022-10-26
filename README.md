@@ -31,10 +31,10 @@
     <br /> 
     Gracias por tu tiempo!
   </h3>
-   <br>
-    <br>
-    <br>
-    <br>
+  <br>
+  <br>
+</div>
+  <div>
     <h3>Tech skills</h3>
     <ul>
         <li>nodeJs</li>
@@ -49,4 +49,4 @@
         <li>ReactNative</li>
         <li>Tailwind</li>
     </ul>
-</div>
+  </div>
