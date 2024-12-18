@@ -1,45 +1,102 @@
-![Header](./assets/header.png)
+<!-- Encabezado -->
+![Header](header.png)
 
+# 👋 ¡Hola! Soy Luciano Balbiano
 
-# About Me:
+**Fullstack Developer | UX/UI Designer**  
+Apasionado por la tecnología y especialista en desarrollo web y móvil con más de **2 años** desarrollando proyectos reales y más de **4 años** aprendiendo diversas tecnologías.  
 
-Passionate about technology, creative and with innovative ideas. Ease to lead groups and improve their performance. I am also passionate about video games and I am open to learning any kind of activity related to them. I feel that I am realizing a unique idea in https://arquihub.vercel.app/.
+---
 
-If you have any questions please contact me to my email:
+## 🚀 **Sobre mí**
+- 🎯 **Perfil:** Desarrollo de aplicaciones web y móviles optimizadas.
+- 🛠️ **Experiencia:** Lidero proyectos desde la concepción hasta el despliegue.
+- 📱 **Especialidades:** Diseño UX/UI en Figma y desarrollo escalable con React Native y Astro.js.
+- 🐾 **Dato curioso:** Diseñé y desarrollé una app que transporta más de **60 mascotas al mes** 🐶.
 
-balbiano06@gmail.com
+---
 
-Thanks for your time!
+## 🏆 **Proyectos destacados**
 
-# Tech skills:
+1. ### **Pet Bus 🚐 (App Play Store)**  
+   - 🗓️ **Octubre 2024 / Noviembre 2024**  
+   - 🎯 Desarrollo de una app de transporte de mascotas con reservas, distancias y tarifas.  
+   - 🚀 **Tecnologías:** React Native, Expo Go, Firebase, Google Maps API  
+   - 🔗 [Ver Proyecto](https://github.com/BalbianoLuciano) *(Subir imagen aquí)*  
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+2. ### **Cactus Media Agency 🌵**  
+   - 🗓️ **Agosto 2024 / Octubre 2024**  
+   - 🎯 Diseño y desarrollo con animaciones GSAP que aumentaron un 20% el engagement.  
+   - 🚀 **Tecnologías:** Astro.js, GSAP, Tailwind, GoogleTag  
+   - 🔗 [Ver Proyecto](https://thecactusmedia.com/) *(Subir imagen aquí)*  
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-balbiano-740037207/)
+3. ### **Homenaje Miguel Montes García**  
+   - 🗓️ **Octubre 2023 / Diciembre 2023**  
+   - 🎯 Optimización del sitio logrando una mejora del 30% en la velocidad de carga.  
+   - 🚀 **Tecnologías:** Astro.js, S3 Amazon, Tailwind, GoogleTag  
+   - 🔗 [Ver Proyecto](https://miguelmontesgarcia.org/)  
 
+4. ### **Proyecto Final Henry**  
+   - 🗓️ **Octubre 2022 / Noviembre 2022**  
+   - 🎯 Lideré el equipo para el desarrollo del proyecto final de Henry.  
+   - 🚀 **Tecnologías:** ReactJS, Tailwind, MongoDB, Redux  
+   - 🔗 [Ver Proyecto](https://arquihub.vercel.app/)  
 
-# Projects:
+5. ### **Amelaf.org.mx**  
+   - 🗓️ **Enero 2024**  
+   - 🎯 Optimización de nuevas secciones de la cadena de suministro.  
+   - 🚀 **Tecnologías:** Symfony, PHP  
+   - 🔗 [Ver Proyecto](https://amelaf.org.mx/)  
 
-## Arquihub
+---
 
-Here´s our original proposal: Both in architecture and programming, in large projects, we work as a group. There is not yet a way to share files between architects and comment on changes in a centralized way. ARQUIHUB will solve this problem by creating a GitHub for autocad files, where each user can choose their collaborators, share files and upload the different updates. Even working individually, it is important to have a place where you can record the changes and be able to later go back and study the different alternatives or solutions that were proposed. Unlike GitHub, at the moment we will not make updates on the same file but with each "push" the new version of the file will be uploaded. In the image on page 6 (not attached yet) we show one of the possible user dashboards where you can see a general image of the project in the foreground and then the different "commits"...   <a href="https://github.com/BalbianoLuciano/ArchiHub-Front" target="blank">Learn More</a>
+## 💻 **Tecnologías y Skills**  
 
-<div align="center">
+### **Desarrollo Web**  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
+![ReactJS](https://img.shields.io/badge/React-000000?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)  
+![Astro](https://img.shields.io/badge/Astro-000000?style=flat&logo=astro)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat&logo=php)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony)
 
-### Landing Page
-<br />
-<img src="https://res.cloudinary.com/dfcd64nhm/image/upload/v1666759895/Arquihub/WhatsApp_Image_2022-10-25_at_16.16.22_pzdffd.jpg" alt="" width="400">
-<br />
+### **Desarrollo Móvil**  
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)  
 
-### Home
-<img src="https://res.cloudinary.com/dfcd64nhm/image/upload/v1666759895/Arquihub/WhatsApp_Image_2022-10-25_at_16.17.00_mlztxz.jpg" alt="" width="400">
-<br />
+### **Otros**  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)  
+![C#](https://img.shields.io/badge/CSharp-000000?style=flat&logo=csharp) 
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
 
-### Detail
-<img src="https://res.cloudinary.com/dfcd64nhm/image/upload/v1666759895/Arquihub/WhatsApp_Image_2022-10-25_at_16.17.13_axsf6m.jpg" alt="" width="400">
-<br />
+---
 
-### Profile
-<img src="https://res.cloudinary.com/dfcd64nhm/image/upload/v1666760122/Arquihub/WhatsApp_Image_2022-10-25_at_16.17.36_xbf1yg.jpg" alt="" width="400">
-<div/>
+## 📚 **Educación**
+- **Academia Henry** - Full Stack Developer *(Julio 2022 - Noviembre 2022)*  
+- **Informatorio Chaco** - Desarrollador Web Python/Django *(Mayo 2021 - Agosto 2021)*  
+- **Udemy** - UX/UI Designer + Figma *(Marzo 2024)*  
+
+---
+
+## 🌐 **Idiomas**
+- **Español:** Nativo / Bilingüe  
+- **Inglés:** B2 Upper Intermediate  
+  ![EFSET](https://cert.efset.org/YTogwD)  
+
+---
+
+## 🔗 **Redes y Contacto**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Google-Chrome)](https://www.balbianoluciano.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/luciano-balbiano/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)](https://github.com/BalbianoLuciano)  
+📧 **Email:** [balbiano06@gmail.com](mailto:balbiano06@gmail.com)  
+📍 **Ubicación:** Argentina  
+
+---
+
+✨ ¡Gracias por visitar mi perfil! 😊
