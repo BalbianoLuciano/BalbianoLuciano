@@ -24,9 +24,9 @@ Desarrollo de una app de transporte de mascotas con reservas de turnos, cálculo
 
 **Imágenes del proyecto:**  
 <p align="center">
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/1-Pet-bus.jpg?tr=w-200" alt="Pet Bus 1" width="30%"/>
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/2-Pet-bus.jpg?tr=w-200" alt="Pet Bus 2" width="30%"/>
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/3-Pet-bus.jpg?tr=w-200" alt="Pet Bus 3" width="30%"/>
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/1-Pet-bus.jpg?tr=w-800" alt="Pet Bus 1" width="30%"/>
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/2-Pet-bus.jpg?tr=w-800" alt="Pet Bus 2" width="30%"/>
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/3-Pet-bus.jpg?tr=w-800" alt="Pet Bus 3" width="30%"/>
 </p> 
 
 🔗 **Repositorio:** [Ver en GitHub](https://github.com/BalbianoLuciano/pet-bus)
