@@ -23,9 +23,11 @@ Desarrollo de una app de transporte de mascotas con reservas de turnos, cálculo
 🛠️ **Tecnologías:** React Native | Expo Go | Firebase | Google Maps API  
 
 **Imágenes del proyecto:**  
-![Pet Bus 1](https://ik.imagekit.io/cactusAgency/github%20repos/1-Pet-bus.jpg?tr=w-400&updatedAt=1734531820075)  
-![Pet Bus 2](https://ik.imagekit.io/cactusAgency/github%20repos/2-Pet-bus.jpg?tr=w-400&updatedAt=1734531835031)  
-![Pet Bus 3](https://ik.imagekit.io/cactusAgency/github%20repos/3-Pet-bus.jpg?tr=w-400&updatedAt=1734531846884)  
+<p align="center">
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/1-Pet-bus.jpg?tr=w-200" alt="Pet Bus 1" width="30%"/>
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/2-Pet-bus.jpg?tr=w-200" alt="Pet Bus 2" width="30%"/>
+  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/3-Pet-bus.jpg?tr=w-200" alt="Pet Bus 3" width="30%"/>
+</p> 
 
 🔗 **Repositorio:** [Ver en GitHub](https://github.com/BalbianoLuciano/pet-bus)
 
