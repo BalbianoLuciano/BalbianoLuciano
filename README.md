@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-![Header](header.png)
+![Header](banner.png)
 
 # 👋 ¡Hola! Soy Luciano Balbiano
 
