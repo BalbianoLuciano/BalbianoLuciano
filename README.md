@@ -71,6 +71,25 @@ Optimización de imágenes y código, mejorando la velocidad del sitio en **30%*
 
 🔗 **Repositorio:** [Ver en Bitbucket](https://bitbucket.org/mo-studio/website-montes/src/master/)
 
+### 🏗️ **ArchiHub (Proyecto Final)**  
+Lideré el desarrollo completo del proyecto final en la academia Henry.  
+📅 **Fecha:** Octubre 2022 - Noviembre 2022  
+
+🛠️ **Tecnologías:**  
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+
+**Imágenes del proyecto:**  
+![ArchiHub 1](https://ik.imagekit.io/cactusAgency/github%20repos/1-arquihub.png?updatedAt=1734531999993)  
+![ArchiHub 2](https://ik.imagekit.io/cactusAgency/github%20repos/2-arquihub.png?updatedAt=1734531999849)  
+![ArchiHub 3](https://ik.imagekit.io/cactusAgency/github%20repos/3-arquihub.png?updatedAt=1734531999893)  
+
+🔗 **Repositorios:**  
+- [Frontend](https://github.com/BalbianoLuciano/ArchiHub-Front)  
+- [Backend](https://github.com/BalbianoLuciano/backend-arquihub)  
+
 ---
 
 ## 💻 **Tecnologías y Skills**
@@ -108,6 +127,19 @@ Optimización de imágenes y código, mejorando la velocidad del sitio en **30%*
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock)  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)  
 
+---
+
+## 📚 **Educación**
+- 🎓 **Academia Henry** - Fullstack Developer *(Julio 2022 - Noviembre 2022)*  
+- 🎓 **Informatorio Chaco** - Python/Django *(Mayo 2021 - Agosto 2021)*  
+- 🎓 **Udemy** - UX/UI Designer *(Marzo 2024)*  
+
+---
+## 🌐 **Idiomas**
+- **Español:** Nativo / Bilingüe  
+- **Inglés:** B2 Upper Intermediate  
+  ![EFSET](https://cert.efset.org/YTogwD)
+    
 ---
 
 ## 🔗 **Contacto**
