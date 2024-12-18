@@ -12,7 +12,7 @@ Más de **2 años de experiencia profesional** liderando proyectos completos, op
 
 ## 📋 **Sobre mí**
 - 🎯 **Apasionado por la tecnología** y el diseño UX/UI en Figma.  
-- 🚐 **Desarrollé una app que transporta más de 60 mascotas mensuales**.  
+- 🚐 **Desarrollé una app que transporta más de 60 mascotas mensualmente**.  
 - 🛠️ **Tecnologías favoritas:** React.js, Next.js, React Native, Astro.js, GSAP y Firebase.  
 - 🔗 [**Portafolio**](https://www.balbianoluciano.com/) | [**LinkedIn**](https://www.linkedin.com/in/luciano-balbiano) | [**GitHub**](https://github.com/BalbianoLuciano)  
 
