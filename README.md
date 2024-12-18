@@ -63,7 +63,7 @@ Diseño visualmente atractivo con animaciones GSAP que aumentaron el engagement 
 ### 📜 **Homenaje a Miguel Montes García**  
 Optimización de imágenes y código, mejorando la velocidad del sitio en **30%**.  
 📅 **Fecha:** Octubre 2023 - Diciembre 2023
-- 🔗 [https://thecactusmedia.com/](https://thecactusmedia.com/)
+- 🔗 [https://miguelmontesgarcia.org/](https://miguelmontesgarcia.org/)
 
 🛠️ **Tecnologías:**  
 ![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
