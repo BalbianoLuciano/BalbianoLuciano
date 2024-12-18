@@ -43,7 +43,8 @@ Desarrollo de una app de transporte de mascotas con reservas de turnos, cálculo
 
 ### 🌵 **Cactus Media Agency**  
 Diseño visualmente atractivo con animaciones GSAP que aumentaron el engagement en un **20%**.  
-📅 **Fecha:** Agosto 2024 - Octubre 2024  
+📅 **Fecha:** Agosto 2024 - Octubre 2024
+- 🔗 [https://thecactusmedia.com/](https://thecactusmedia.com/)  
 
 🛠️ **Tecnologías:**  
 ![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
@@ -61,7 +62,8 @@ Diseño visualmente atractivo con animaciones GSAP que aumentaron el engagement 
 
 ### 📜 **Homenaje a Miguel Montes García**  
 Optimización de imágenes y código, mejorando la velocidad del sitio en **30%**.  
-📅 **Fecha:** Octubre 2023 - Diciembre 2023  
+📅 **Fecha:** Octubre 2023 - Diciembre 2023
+- 🔗 [https://thecactusmedia.com/](https://thecactusmedia.com/)
 
 🛠️ **Tecnologías:**  
 ![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
@@ -73,7 +75,8 @@ Optimización de imágenes y código, mejorando la velocidad del sitio en **30%*
 
 ### 🏗️ **ArchiHub (Proyecto Final)**  
 Lideré el desarrollo completo del proyecto final en la academia Henry.  
-📅 **Fecha:** Octubre 2022 - Noviembre 2022  
+📅 **Fecha:** Octubre 2022 - Noviembre 2022
+- 🔗 [https://arquihub.vercel.app/home](https://arquihub.vercel.app/home)
 
 🛠️ **Tecnologías:**  
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
