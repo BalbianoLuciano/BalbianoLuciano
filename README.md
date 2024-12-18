@@ -138,7 +138,7 @@ Lideré el desarrollo completo del proyecto final en la academia Henry.
 ## 🌐 **Idiomas**
 - **Español:** Nativo / Bilingüe  
 - **Inglés:** B2 Upper Intermediate  
-  ![EFSET](https://cert.efset.org/YTogwD)
+  [Certificado EFSET](https://cert.efset.org/YTogwD)
     
 ---
 
