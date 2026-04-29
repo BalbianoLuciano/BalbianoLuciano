@@ -1,154 +1,106 @@
-<!-- Header -->
-![Header](banner.png)
+# Hi, I'm Luciano 👋
 
-# 🚀 Luciano Balbiano  
-**Fullstack Developer | UX/UI Designer**  
-Especialista en desarrollo web y móvil con experiencia en **React.js**, **Astro.js** y **React Native**.  
-Más de **2 años de experiencia profesional** liderando proyectos completos, optimizando diseños y mejorando la experiencia del usuario.
+📍 **Madrid, Spain** | 💻 **Full Stack Developer & Project Lead** | 🇪🇸 **EU Citizen — Remote-friendly worldwide**
 
-📧 **Email:** [balbiano06@gmail.com](mailto:balbiano06@gmail.com)  
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](#)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![HubSpot](https://img.shields.io/badge/-HubSpot%20CMS-FF7A59?style=flat-square&logo=hubspot&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
 
----
+> Full Stack Developer & Project Lead with 5+ years building production web applications. Specialized in **Laravel + Vue.js** ecosystems with deep expertise in **HubSpot CMS** and **AI integrations** (OpenAI, Claude, MCP agents). Currently leading development at a Madrid-based tech company — managing teams, architecting solutions, and shipping end-to-end.
 
-## 📋 **Sobre mí**
-- 🎯 **Apasionado por la tecnología** y el diseño UX/UI en Figma.  
-- 🚐 **Desarrollé una app que transporta más de 60 mascotas mensualmente**.  
-- 🛠️ **Tecnologías favoritas:** React.js, Next.js, React Native, Astro.js, GSAP y Firebase.  
-- 🔗 [**Portafolio**](https://www.balbianoluciano.com/) | [**LinkedIn**](https://www.linkedin.com/in/luciano-balbiano) | [**GitHub**](https://github.com/BalbianoLuciano)  
-
----
-
-## 🏆 **Proyectos destacados**
-
-### 🚐 **Pet Bus**  
-Desarrollo de una app de transporte de mascotas con reservas de turnos, cálculo de distancias y tarifas utilizando la API de Google Maps.  
-📅 **Fecha:** Octubre 2024 - Noviembre 2024  
-
-🛠️ **Tecnologías:**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)  
-![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat&logo=googlemaps&logoColor=white)  
-
-**Imágenes del proyecto:**  
-<p align="center">
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/1-Pet-bus.jpg?tr=w-800" alt="Pet Bus 1" width="30%"/>
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/2-Pet-bus.jpg?tr=w-800" alt="Pet Bus 2" width="30%"/>
-  <img src="https://ik.imagekit.io/cactusAgency/github%20repos/3-Pet-bus.jpg?tr=w-800" alt="Pet Bus 3" width="30%"/>
-</p> 
-
-🔗 **Repositorio:** [Ver en GitHub](https://github.com/BalbianoLuciano/pet-bus)
+🏢 **Currently:** Project Lead → check my work account [@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano)
+🌐 **Portfolio:** [balbianoluciano.com](https://balbianoluciano.com)
 
 ---
 
-### 🌵 **Cactus Media Agency**  
-Diseño visualmente atractivo con animaciones GSAP que aumentaron el engagement en un **20%**.  
-📅 **Fecha:** Agosto 2024 - Octubre 2024
-- 🔗 [https://thecactusmedia.com/](https://thecactusmedia.com/)  
+## 🚀 Featured Projects
 
-🛠️ **Tecnologías:**  
-![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript&logoColor=white)  
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag-4285F4?style=flat&logo=google-tag-manager&logoColor=white)  
+### Production / Client Work
 
-**Imagen del proyecto:**  
-![Cactus Agency](https://ik.imagekit.io/cactusAgency/github%20repos/thecactusmedia.com_.png?updatedAt=1734532823667)  
+* 🦊 **[El Zorro Gris](https://elzorrogris.es)** — Full-stack Laravel + Vue.js app with custom EPUB reader (modified Epub.js), OpenAI & Claude AI content pipelines, and Pest + Playwright golden-test infrastructure.
+* 📚 **[Malmberg.nl HubSpot Migration](https://malmberg.nl)** — Led the migration of 800+ pages to HubSpot CMS. Custom components, automated migration pipelines, serverless functions, and complex workflows. *(Stack: TypeScript · React · HubSpot CMS · Serverless)*
+* 🤖 **AI Content Generation Platform** *(internal — Invisible Geeks)* — Laravel + Filament admin panel orchestrating OpenAI, Claude, Google Maps and NewsAPI.ai for automated content workflows.
 
-🔗 **Repositorio:** [Ver en GitHub](https://github.com/BalbianoLuciano/cactus-agency)  
+### Personal / Open Projects
 
----
-
-### 📜 **Homenaje a Miguel Montes García**  
-Optimización de imágenes y código, mejorando la velocidad del sitio en **30%**.  
-📅 **Fecha:** Octubre 2023 - Diciembre 2023
-- 🔗 [https://miguelmontesgarcia.org/](https://miguelmontesgarcia.org/)
-
-🛠️ **Tecnologías:**  
-![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazonaws&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag-4285F4?style=flat&logo=google-tag-manager&logoColor=white)  
-
-🔗 **Repositorio:** [Ver en Bitbucket](https://bitbucket.org/mo-studio/website-montes/src/master/)
-
-### 🏗️ **ArchiHub (Proyecto Final)**  
-Lideré el desarrollo completo del proyecto final en la academia Henry.  
-📅 **Fecha:** Octubre 2022 - Noviembre 2022
-- 🔗 [https://arquihub.vercel.app/home](https://arquihub.vercel.app/home)
-
-🛠️ **Tecnologías:**  
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-
-**Imágenes del proyecto:**  
-![ArchiHub 1](https://ik.imagekit.io/cactusAgency/github%20repos/1-arquihub.png?updatedAt=1734531999993)  
-![ArchiHub 2](https://ik.imagekit.io/cactusAgency/github%20repos/2-arquihub.png?updatedAt=1734531999849)  
-![ArchiHub 3](https://ik.imagekit.io/cactusAgency/github%20repos/3-arquihub.png?updatedAt=1734531999893)  
-
-🔗 **Repositorios:**  
-- [Frontend](https://github.com/BalbianoLuciano/ArchiHub-Front)  
-- [Backend](https://github.com/BalbianoLuciano/backend-arquihub)  
+* 💼 **[Dmeter](https://github.com/BalbianoLuciano)** — Co-founder. Digital solutions for SMBs: time-saving tools, error reduction, business automation. Tech with purpose.
+* 🚐 **[Pet Bus](https://github.com/BalbianoLuciano/pet-bus)** — React Native + Expo + Firebase pet-transport app. Google Maps integration for distance calc & pricing. Powers 60+ monthly trips.
+* 🌵 **[Cactus Media Agency](https://thecactusmedia.com)** — Astro + GSAP + Tailwind. Agency site with motion-heavy UI; engagement +20%. *([repo](https://github.com/BalbianoLuciano/cactus-agency))*
+* 📜 **[Miguel Montes García Tribute](https://miguelmontesgarcia.org)** — Astro + Tailwind + S3. Performance-tuned static site (load time -30%).
+* 🏗️ **[ArchiHub](https://arquihub.vercel.app/home)** — Marketplace for architecture services. React + Redux + MongoDB. *([Frontend](https://github.com/BalbianoLuciano/ArchiHub-Front) · [Backend](https://github.com/BalbianoLuciano/backend-arquihub))*
 
 ---
 
-## 💻 **Tecnologías y Skills**
+## 🛠️ Tech Stack
 
-### **Desarrollo Web**  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=flat&logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=flat&logo=css3)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-![Astro](https://img.shields.io/badge/Astro-FF8C00?style=flat&logo=astro&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)  
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony)  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress)  
-
-### **Desarrollo Móvil**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo)  
-
-### **Desarrollo de Juegos**  
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)  
-
-### **Bases de Datos**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)  
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
-### **Herramientas y Otros**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)  
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock)  
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)  
+**Backend:** PHP · Laravel · Symfony · Node.js · REST APIs · Filament
+**Frontend:** Vue.js · React · TypeScript · JavaScript · Tailwind CSS · Next.js · Astro.js · GSAP · Bootstrap
+**Mobile:** React Native · Expo
+**Databases:** MySQL · PostgreSQL · MongoDB · Firebase · Prisma
+**CMS:** HubSpot CMS (serverless functions · workflows · custom components) · WordPress
+**AI / Agents:** OpenAI API · Claude AI API · MCP (Model Context Protocol) · Claude Code
+**DevOps & Testing:** Docker · CI/CD · Playwright · Pest
+**Design:** Figma · UX/UI · Responsive Design
 
 ---
 
-## 📚 **Educación**
-- 🎓 **Academia Henry** - Fullstack Developer *(Julio 2022 - Noviembre 2022)*  
-- 🎓 **Informatorio Chaco** - Python/Django *(Mayo 2021 - Agosto 2021)*  
-- 🎓 **Udemy** - UX/UI Designer *(Marzo 2024)*  
+## 📊 GitHub Activity
 
----
-## 🌐 **Idiomas**
-- **Español:** Nativo / Bilingüe  
-- **Inglés:** B2 Upper Intermediate  
-  [Certificado EFSET](https://cert.efset.org/YTogwD)
-    
----
+[![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalbianoLuciano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/BalbianoLuciano)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalbianoLuciano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/BalbianoLuciano)
 
-## 🔗 **Contacto**
-📧 **Email:** [balbiano06@gmail.com](mailto:balbiano06@gmail.com)  
-🔗 [**Portafolio**](https://www.balbianoluciano.com/) | [**LinkedIn**](https://www.linkedin.com/in/luciano-balbiano) | [**GitHub**](https://github.com/BalbianoLuciano)  
+[![GitHub Contribution Graph](https://ghchart.rshah.org/BalbianoLuciano)](https://github.com/BalbianoLuciano)
 
 ---
 
-✨ **¡Gracias por visitar mi perfil!** ✨  
+## 💼 What I'm Doing
+
+* **Leading projects at Invisible Geeks** — End-to-end ownership: planning → architecture → sprint management → deployment → stakeholder coordination.
+* **Building AI-powered tools** — Production systems that integrate OpenAI and Claude for content generation, summarization, and workflow automation.
+* **Exploring MCP agents** — Building custom Model Context Protocol servers and agents with Claude Code.
+* **HubSpot deep-dive** — Custom components, serverless functions, complex workflows for enterprise CMS migrations.
+
+---
+
+## 🌍 Open to Opportunities
+
+* 🏠 **Remote-first** — worldwide
+* 🇪🇺 **EU Citizen (Spain)** — no visa sponsorship needed for EU positions
+* 💬 **Languages:** Spanish (Native) · English (B2 Upper Intermediate — [EFSET Certified](https://cert.efset.org/YTogwD))
+* 🎯 **Roles I'm interested in:** Full Stack Developer · Senior Full Stack · Tech Lead · Project Lead · Backend (PHP/Laravel) · Frontend (Vue/React)
+
+---
+
+## 🎓 Education
+
+* 🎓 **Universidad Tecnológica Nacional** — Tecnicatura Universitaria en Programación *(Mar 2026 — Dec 2027)*
+* 🏫 **Academia Henry** — Full Stack Developer Bootcamp *(2022)*
+* 🎨 **UX/UI + Figma 2024** — Certified
+* 💻 **Learn C# and make a videogame with Unity** — Certified
+* 🌐 **EF SET English Certificate** — B2 Upper Intermediate (55/100)
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://balbianoluciano.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianobalbiano)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balbiano06@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BalbianoLuciano)
+
+---
+
+> *"Ship code that solves real problems."* — Whether it's a Laravel API serving thousands of requests, a Vue component that finally feels right, or an AI agent that automates a tedious workflow — I build software that earns its place in production.
+
+✨ **Thanks for visiting my profile.** Let's build something. ✨
