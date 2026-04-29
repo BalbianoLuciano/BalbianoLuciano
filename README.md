@@ -1,6 +1,6 @@
 # Hi, I'm Luciano 👋
 
-📍 **Madrid, Spain** | 💻 **Full Stack Developer & Project Lead** | 🇪🇸 **EU Citizen — Remote-friendly worldwide**
+📍 **Madrid, Spain ↔ Buenos Aires, Argentina** | 💻 **Full Stack Developer & Project Lead** | 🇪🇸 **EU Citizen — Remote-friendly worldwide**
 
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](#)
@@ -28,9 +28,8 @@
 
 ### Production / Client Work
 
-* 🦊 **[El Zorro Gris](https://elzorrogris.es)** — Full-stack Laravel + Vue.js app with custom EPUB reader (modified Epub.js), OpenAI & Claude AI content pipelines, and Pest + Playwright golden-test infrastructure.
+* 🦊 **[El Zorro Gris](https://elzorrogris.es)** — Full-stack Laravel + Vue.js platform built end-to-end. Includes a **custom EPUB reader** (with native Epub.js modifications) and an **AI content engine**: Filament admin panel orchestrating OpenAI, Claude, Google Maps and NewsAPI.ai for automated content workflows. Robust testing with Pest (unit) + Playwright (golden tests).
 * 📚 **[Malmberg.nl HubSpot Migration](https://malmberg.nl)** — Led the migration of 800+ pages to HubSpot CMS. Custom components, automated migration pipelines, serverless functions, and complex workflows. *(Stack: TypeScript · React · HubSpot CMS · Serverless)*
-* 🤖 **AI Content Generation Platform** *(internal — Invisible Geeks)* — Laravel + Filament admin panel orchestrating OpenAI, Claude, Google Maps and NewsAPI.ai for automated content workflows.
 
 ### Personal / Open Projects
 
@@ -49,7 +48,7 @@
 **Mobile:** React Native · Expo
 **Databases:** MySQL · PostgreSQL · MongoDB · Firebase · Prisma
 **CMS:** HubSpot CMS (serverless functions · workflows · custom components) · WordPress
-**AI / Agents:** OpenAI API · Claude AI API · MCP (Model Context Protocol) · Claude Code
+**AI / Agents:** OpenAI API · Claude AI API · RAG (Retrieval-Augmented Generation) · MCP (Model Context Protocol) · Claude Code · Prompt Engineering
 **DevOps & Testing:** Docker · CI/CD · Playwright · Pest
 **Design:** Figma · UX/UI · Responsive Design
 
@@ -57,10 +56,21 @@
 
 ## 📊 GitHub Activity
 
+> 💡 My **daily coding activity** lives on my work account → **[@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano)**. That's where I push production code every day. This personal account holds my open projects, freelance work, and side experiments.
+
+### Personal account ([@BalbianoLuciano](https://github.com/BalbianoLuciano))
+
 [![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalbianoLuciano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/BalbianoLuciano)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BalbianoLuciano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/BalbianoLuciano)
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/BalbianoLuciano)](https://github.com/BalbianoLuciano)
+[![Personal contributions](https://ghchart.rshah.org/BalbianoLuciano)](https://github.com/BalbianoLuciano)
+
+### Work account ([@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano)) — daily activity
+
+[![Work stats](https://github-readme-stats.vercel.app/api?username=InvisibleGeeksBalbiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/InvisibleGeeksBalbiano)
+[![Top Langs Work](https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleGeeksBalbiano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/InvisibleGeeksBalbiano)
+
+[![Work contributions](https://ghchart.rshah.org/InvisibleGeeksBalbiano)](https://github.com/InvisibleGeeksBalbiano)
 
 ---
 
@@ -68,6 +78,7 @@
 
 * **Leading projects at Invisible Geeks** — End-to-end ownership: planning → architecture → sprint management → deployment → stakeholder coordination.
 * **Building AI-powered tools** — Production systems that integrate OpenAI and Claude for content generation, summarization, and workflow automation.
+* **RAG pipelines** — Building Retrieval-Augmented Generation systems for context-aware automations, internal knowledge bases, and semantic search.
 * **Exploring MCP agents** — Building custom Model Context Protocol servers and agents with Claude Code.
 * **HubSpot deep-dive** — Custom components, serverless functions, complex workflows for enterprise CMS migrations.
 
@@ -85,7 +96,6 @@
 ## 🎓 Education
 
 * 🎓 **Universidad Tecnológica Nacional** — Tecnicatura Universitaria en Programación *(Mar 2026 — Dec 2027)*
-* 🏫 **Academia Henry** — Full Stack Developer Bootcamp *(2022)*
 * 🎨 **UX/UI + Figma 2024** — Certified
 * 💻 **Learn C# and make a videogame with Unity** — Certified
 * 🌐 **EF SET English Certificate** — B2 Upper Intermediate (55/100)
