@@ -60,8 +60,7 @@
 
 ### Work account ([@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano)) — daily activity
 
-[![Work stats](https://github-readme-stats.vercel.app/api?username=InvisibleGeeksBalbiano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/InvisibleGeeksBalbiano)
-[![Top Langs Work](https://github-readme-stats.vercel.app/api/top-langs/?username=InvisibleGeeksBalbiano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/InvisibleGeeksBalbiano)
+[![Work contributions](https://ghchart.rshah.org/InvisibleGeeksBalbiano)](https://github.com/InvisibleGeeksBalbiano)
 
 ---
 
