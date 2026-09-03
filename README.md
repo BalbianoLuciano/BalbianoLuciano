@@ -2,7 +2,7 @@
 
 📍 **Buenos Aires, Argentina** · 🇪🇺 **EU citizen (Spain)** — no visa sponsorship needed · 🌍 **Remote-first**
 
-**AI Engineer** · Spec-driven development · Frontend Architect at [Dmeter](https://dmeter.com.ar) · Team Leader at Invisible Geeks
+**AI Engineer** · Spec-driven development · Co-founder & Frontend Architect at [Dmeter](https://dmeter.com.ar) · Team Leader at Invisible Geeks
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
@@ -17,7 +17,7 @@
 
 > I build AI systems that reach production instead of stopping at a demo: MCP servers, RAG pipelines and agents wired into the systems people already use. I work spec-first — the specification before the code — and keep business rules versioned as data instead of buried in the program.
 >
-> Six products in production at Dmeter, where I lead the technical decisions and architecture. Before the AI work: 5 years of Laravel, Vue and TypeScript, large-scale migrations and multi-tenant systems.
+> Six products in production at Dmeter, the studio I co-founded, where I lead the technical decisions and architecture. Before the AI work: 5 years of Laravel, Vue and TypeScript, large-scale migrations and multi-tenant systems.
 
 🌐 **Portfolio:** [balbianoluciano.github.io](https://balbianoluciano.github.io)
 
