@@ -2,7 +2,7 @@
 
 📍 **Buenos Aires, Argentina** · 🇪🇺 **EU citizen (Spain)** — no visa sponsorship needed · 🌍 **Remote-first**
 
-**AI Engineer** · Spec-driven development · Co-founder & Frontend Architect at [Dmeter](https://dmeter.com.ar) · Team Leader at Invisible Geeks
+**Software Engineer** · Spec-driven development · Co-founder & Frontend Architect at [Dmeter](https://dmeter.com.ar) · Team Leader at Invisible Geeks
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/-Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
