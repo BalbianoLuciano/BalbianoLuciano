@@ -25,8 +25,8 @@
 
 ## 🤖 AI work
 
-**Dmeter MCP Server** — An MCP server in TypeScript on the official Model Context Protocol SDK that centralises the studio's operations. It exposes tools, resources and prompts that the whole team consumes from their own Claude Code instance. Includes a RAG knowledge base over projects and documentation, proposal and document generation, budget estimation, and onboarding for new people. Multi-user: each person connects from their own instance.
-*TypeScript · Node 20 · MCP SDK · Hugging Face Transformers · SQLite · Zod · Puppeteer*
+**[Gridwright](https://github.com/BalbianoLuciano/gridwright)** — End-to-end layout pipeline driven from Claude Code: a Figma node goes in, and a built, visually verified component registered in the project's design system comes out. A long prompt telling an agent how to build a layout doesn't work — the agent skips the analysis whenever the request looks simple. So the state machine lives on disk and a CLI enforces it: Claude doesn't decide which stage comes next, it asks. Anything that can be checked with an assert is code — pulling assets, distilling the tree, matching tokens, rendering and diffing; naming, the prop API and what to reuse are left to the model. The ruler was built before the factory: every component is rendered with Playwright and compared against the design with a perceptual diff. 184 tests.
+*TypeScript · Node · Vite · Tailwind v4 · Playwright · sharp · ts-morph · Claude Code plugin*
 
 **RAG over the studio's knowledge** — Retrieval over our projects and internal documentation using local embeddings and SQLite, with no external vector service. Chunking, indexing and retrieval written directly rather than delegated to a framework, so retrieval quality is something I can measure and tune.
 
