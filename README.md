@@ -1,4 +1,4 @@
-# Hi, I'm Luciano 👋
+# Hi, I'm Luciano 
 
 📍 **Buenos Aires, Argentina** · 🇪🇺 **EU citizen (Spain)** — no visa sponsorship needed · 🌍 **Remote-first**
 
