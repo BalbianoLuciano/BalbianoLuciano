@@ -72,27 +72,27 @@ One design rule runs through all of it: **the system generates, the person decid
 
 **AI and agents**
 
-![Model Context Protocol](assets/stack/model-context-protocol.svg) ![Claude Code](assets/stack/claude-code.svg) ![OpenAI API](assets/stack/openai-api.svg) ![Claude API](assets/stack/claude-api.svg) ![Groq](assets/stack/groq.svg) ![OpenRouter](assets/stack/openrouter.svg) ![Llama 3.3](assets/stack/llama-3-3.svg)
+![Model Context Protocol](assets/stack/model-context-protocol.svg?v=2) ![Claude Code](assets/stack/claude-code.svg?v=2) ![OpenAI API](assets/stack/openai-api.svg?v=2) ![Claude API](assets/stack/claude-api.svg?v=2) ![Groq](assets/stack/groq.svg?v=2) ![OpenRouter](assets/stack/openrouter.svg?v=2) ![Llama 3.3](assets/stack/llama-3-3.svg?v=2)
 
 **RAG and data**
 
-![ChromaDB](assets/stack/chromadb.svg) ![local embeddings](assets/stack/local-embeddings.svg) ![SQLite](assets/stack/sqlite.svg) ![PostgreSQL](assets/stack/postgresql.svg) ![MySQL](assets/stack/mysql.svg) ![Prisma](assets/stack/prisma.svg) ![Drizzle](assets/stack/drizzle.svg)
+![ChromaDB](assets/stack/chromadb.svg?v=2) ![local embeddings](assets/stack/local-embeddings.svg?v=2) ![SQLite](assets/stack/sqlite.svg?v=2) ![PostgreSQL](assets/stack/postgresql.svg?v=2) ![MySQL](assets/stack/mysql.svg?v=2) ![Prisma](assets/stack/prisma.svg?v=2) ![Drizzle](assets/stack/drizzle.svg?v=2)
 
 **Languages**
 
-![TypeScript](assets/stack/typescript.svg) ![JavaScript](assets/stack/javascript.svg) ![Python](assets/stack/python.svg) ![PHP](assets/stack/php.svg)
+![TypeScript](assets/stack/typescript.svg?v=2) ![JavaScript](assets/stack/javascript.svg?v=2) ![Python](assets/stack/python.svg?v=2) ![PHP](assets/stack/php.svg?v=2)
 
 **Web**
 
-![Laravel](assets/stack/laravel.svg) ![Vue](assets/stack/vue.svg) ![React](assets/stack/react.svg) ![Next.js](assets/stack/next-js.svg) ![Astro](assets/stack/astro.svg) ![Inertia.js](assets/stack/inertia-js.svg) ![Tailwind](assets/stack/tailwind.svg) ![Hono](assets/stack/hono.svg) ![Filament](assets/stack/filament.svg)
+![Laravel](assets/stack/laravel.svg?v=2) ![Vue](assets/stack/vue.svg?v=2) ![React](assets/stack/react.svg?v=2) ![Next.js](assets/stack/next-js.svg?v=2) ![Astro](assets/stack/astro.svg?v=2) ![Inertia.js](assets/stack/inertia-js.svg?v=2) ![Tailwind](assets/stack/tailwind.svg?v=2) ![Hono](assets/stack/hono.svg?v=2) ![Filament](assets/stack/filament.svg?v=2)
 
 **Infrastructure and testing**
 
-![Cloudflare Workers](assets/stack/cloudflare-workers.svg) ![Docker](assets/stack/docker.svg) ![GitHub Actions](assets/stack/github-actions.svg) ![Vite](assets/stack/vite.svg) ![Pest](assets/stack/pest.svg) ![Playwright](assets/stack/playwright.svg) ![Vitest](assets/stack/vitest.svg) ![golden tests](assets/stack/golden-tests.svg)
+![Cloudflare Workers](assets/stack/cloudflare-workers.svg?v=2) ![Docker](assets/stack/docker.svg?v=2) ![GitHub Actions](assets/stack/github-actions.svg?v=2) ![Vite](assets/stack/vite.svg?v=2) ![Pest](assets/stack/pest.svg?v=2) ![Playwright](assets/stack/playwright.svg?v=2) ![Vitest](assets/stack/vitest.svg?v=2) ![golden tests](assets/stack/golden-tests.svg?v=2)
 
 **Method**
 
-![Spec-driven development](assets/stack/spec-driven-development.svg) ![versioned business rules](assets/stack/versioned-business-rules.svg)
+![Spec-driven development](assets/stack/spec-driven-development.svg?v=2) ![versioned business rules](assets/stack/versioned-business-rules.svg?v=2)
 
 ---
 
