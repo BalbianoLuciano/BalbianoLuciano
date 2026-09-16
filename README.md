@@ -1,4 +1,4 @@
-![Luciano Balbiano — software engineer, spec-driven development, AI in production](assets/cabecera.png)
+![Luciano Balbiano — software engineer, spec-driven development, AI in production](assets/cabecera.png?v=2)
 
 I build AI systems that reach production instead of stopping at a demo: MCP servers, RAG pipelines and agents wired into the systems people already use. I work spec-first — the specification before the code — and keep business rules versioned as data instead of buried in the program.
 

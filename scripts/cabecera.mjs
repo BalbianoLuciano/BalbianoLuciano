@@ -21,4 +21,4 @@ if (!dharma) throw new Error('Dharma no cargo: la cabecera saldria con la tipogr
 await pagina.screenshot({ path: 'assets/cabecera.png' });
 await navegador.close();
 server.close();
-console.log('assets/cabecera.png listo');
+console.log('assets/cabecera.png listo — si cambia el dibujo, subile el ?v= del README: GitHub cachea las imagenes por URL');
