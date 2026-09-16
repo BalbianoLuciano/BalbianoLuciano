@@ -1,0 +1,86 @@
+<!doctype html>
+<meta charset="utf-8">
+<!-- Cabecera del README. Manual de marca: hormigon de fondo, vacio para el
+     texto, Dharma Gothic con Aileron de respaldo, titulo en caja baja y recto,
+     y la trama de los tensores solo donde no hay texto. Las piezas de la
+     derecha son las del mapa de proyectos del portfolio. -->
+<link rel="stylesheet" href="https://use.typekit.net/tyi0xxl.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { width: 1280px; height: 320px; background: #a8a49b; font-family: 'IBM Plex Mono', monospace; overflow: hidden; }
+  .cabecera {
+    position: relative; width: 100%; height: 100%;
+    padding: 44px 48px;
+    display: flex; flex-direction: column; justify-content: space-between;
+    /* Los agujeros de los tensores: solo en el vacio de la derecha */
+    background-image:
+      radial-gradient(ellipse 62% 120% at 24% 50%, #a8a49b 60%, transparent 100%),
+      radial-gradient(circle at center, rgba(21, 19, 15, 0.22) 0 1.6px, transparent 1.7px);
+    background-size: 100% 100%, 34px 34px;
+  }
+  .etiqueta { font-size: 13px; letter-spacing: 0.22em; text-transform: uppercase; color: rgba(21,19,15,.62); }
+  .nombre {
+    font-family: 'dharma-gothic-e', 'Aileron', sans-serif; font-weight: 700; font-style: normal;
+    font-size: 132px; line-height: .82; color: #15130f; letter-spacing: .01em;
+  }
+  .rol { font-size: 15px; letter-spacing: 0.2em; text-transform: uppercase; color: #15130f; margin-top: 14px; }
+  .pie { display: flex; gap: 28px; font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: rgba(21,19,15,.62);
+         border-top: 1px solid rgba(21,19,15,.25); padding-top: 18px; }
+  .pie b { color: #15130f; font-weight: 500; }
+  .piezas { position: absolute; right: 52px; top: -26px; height: calc(100% + 52px); width: 150px; }
+  .piezas svg { width: 100%; height: 100%; overflow: visible; }
+  .piezas path { fill: none; stroke: rgba(21,19,15,.55); stroke-width: 1.25; }
+</style>
+<div class="cabecera">
+  <div>
+    <p class="etiqueta">Software engineer · Buenos Aires · Remote</p>
+  </div>
+  <div>
+    <h1 class="nombre">Luciano Balbiano</h1>
+    <p class="rol">Spec-driven development · AI in production</p>
+  </div>
+  <div class="pie">
+    <span><b>Dmeter</b> · co-founder</span>
+    <span><b>Invisible Geeks</b> · team leader</span>
+    <span>balbianoluciano.github.io</span>
+  </div>
+  <div class="piezas"></div>
+</div>
+<script>
+  // Las mismas juntas del mapa de proyectos: cada una distinta, y la misma
+  // linea a los dos lados, por eso encastran.
+  const JUNTAS = [
+    [[0,-0.7],['L',1,0.7]],
+    [[0,0],['Q',0.5,2,1,0]],
+    [[0,0],['L',0.34,0],['L',0.34,-1],['L',0.66,-1],['L',0.66,0],['L',1,0]],
+    [[0,0],['Q',0.25,2,0.5,0],['Q',0.75,-2,1,0]],
+    [[0,-0.6],['L',0.52,-0.6],['L',0.52,0.6],['L',1,0.6]],
+  ];
+  const ALTOS = [74, 132, 96, 150, 110, 128];
+  const W = 150, GAP = 12;
+  const total = ALTOS.reduce((a,b)=>a+b,0) + GAP*(ALTOS.length-1);
+  const X = (u) => u*(W-1.2)+0.6;
+  const fin = (p,k)=> k===0 ? p[0] : (p[k][0]==='Q' ? [p[k][3],p[k][4]] : [p[k][1],p[k][2]]);
+  const tramo = (perfil,y,a,alReves) => {
+    const P=(u,d)=>`${X(u).toFixed(2)} ${(y+d*a).toFixed(2)}`;
+    if(!alReves) return perfil.slice(1).map(s=>s[0]==='Q'?`Q${P(s[1],s[2])} ${P(s[3],s[4])}`:`L${P(s[1],s[2])}`).join(' ');
+    let d='';
+    for(let k=perfil.length-1;k>=1;k--){const s=perfil[k];const [u,v]=fin(perfil,k-1);
+      d += s[0]==='Q'?`Q${P(s[1],s[2])} ${P(u,v)} `:`L${P(u,v)} `;}
+    return d.trim();
+  };
+  const RECTA=[[0,0],['L',1,0]];
+  let y=0, d='';
+  ALTOS.forEach((h,k)=>{
+    const top=y, bot=y+h;
+    const arriba = k>0 ? JUNTAS[(k-1)%JUNTAS.length] : RECTA;
+    const abajo = k<ALTOS.length-1 ? JUNTAS[k%JUNTAS.length] : RECTA;
+    const aA = k>0 ? Math.min(0.3*Math.min(ALTOS[k-1],h),22) : 0;
+    const aB = k<ALTOS.length-1 ? Math.min(0.3*Math.min(h,ALTOS[k+1]),22) : 0;
+    const s0=arriba[0], e1=fin(abajo,abajo.length-1);
+    d += `<path d="M${X(s0[0]).toFixed(2)} ${(top+s0[1]*aA).toFixed(2)} ${tramo(arriba,top,aA,false)} L${X(e1[0]).toFixed(2)} ${(bot+e1[1]*aB).toFixed(2)} ${tramo(abajo,bot,aB,true)} Z"/>`;
+    y = bot + GAP;
+  });
+  document.querySelector('.piezas').innerHTML = `<svg viewBox="0 0 ${W} ${total}" preserveAspectRatio="none">${d}</svg>`;
+</script>
