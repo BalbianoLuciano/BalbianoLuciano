@@ -1,8 +1,8 @@
 ![Luciano Balbiano — software engineer, spec-driven development, AI in production](assets/cabecera.png?v=2)
 
-I build AI systems that reach production instead of stopping at a demo: MCP servers, RAG pipelines and agents wired into the systems people already use. I work spec-first — the specification before the code — and keep business rules versioned as data instead of buried in the program.
+Full Stack Software Engineer and Team Leader with 5+ years building web and mobile products end to end, from requirements with stakeholders to deployment and production maintenance. PHP, Laravel, Vue, React, TypeScript and React Native, with legacy modernization (PHP 5.x, Symfony), large-scale CMS migrations, multi-tenant SaaS and LLM integrations on the OpenAI and Claude APIs running in production. I work spec-first — the specification before the code — and keep business rules versioned as data instead of buried in the program.
 
-Six products in production at Dmeter, the studio I co-founded, where I lead the technical decisions and architecture. Before the AI work: five years of Laravel, Vue and TypeScript, large-scale migrations and multi-tenant systems.
+I lead a team of 3 developers, owning architecture, code review and delivery, and built the tooling that lets our junior developers ship views and modules 70% faster. At Dmeter, the studio I co-founded, I lead the technical decisions and architecture behind six products in production. I catch scope and technical risks early: several times that let client agreements be renegotiated before they became problems.
 
 Buenos Aires, Argentina. EU citizen (Spain), so no sponsorship for European positions. Remote-first.
 
@@ -10,7 +10,7 @@ Buenos Aires, Argentina. EU citizen (Spain), so no sponsorship for European posi
 
 ## Built with AI
 
-**Gridwright** — End-to-end layout pipeline driven from Claude Code: a Figma node goes in, and a built, visually verified component registered in the project's design system comes out. A long prompt telling an agent how to build a layout doesn't work — the agent skips the analysis whenever the request looks simple. So the state machine lives on disk and a CLI enforces it: Claude doesn't decide which stage comes next, it asks. Anything that can be checked with an assert is code — pulling assets, distilling the tree, matching tokens, rendering and diffing; naming, the prop API and what to reuse are left to the model. The ruler was built before the factory: every component is rendered with Playwright and compared against the design with a perceptual diff. 250 tests.
+**Gridwright** — End-to-end layout pipeline driven from Claude Code: a Figma node goes in, and a built, visually verified component registered in the project's design system comes out. A long prompt telling an agent how to build a layout doesn't work — the agent skips the analysis whenever the request looks simple. So the state machine lives on disk and a CLI enforces it: Claude doesn't decide which stage comes next, it asks. Anything that can be checked with an assert is code — pulling assets, distilling the tree, matching tokens, rendering and diffing; naming, the prop API and what to reuse are left to the model. The ruler was built before the factory: every component is rendered with Playwright and compared against the design with a perceptual diff. Built for my team: junior developers build views and modules **70% faster**, at **98.5% visual fidelity** against 89% for the same agent without it. 250 tests.
 
 *TypeScript · Node · Vite · Tailwind 4 · Playwright · sharp · ts-morph · Claude Code plugin*
 
@@ -110,7 +110,7 @@ One design rule runs through all of it: **the system generates, the person decid
 
 ## Open to
 
-AI Engineer · Senior Full Stack · Tech Lead · Team Leader. Remote worldwide; EU citizen, so no sponsorship is needed for European positions. Spanish native, English B2.
+Senior Full Stack · Software Engineer · Tech Lead · Team Leader. Remote worldwide; EU citizen, so no sponsorship is needed for European positions. Spanish native, English B2.
 
 [![Portfolio](assets/insignias/portfolio.svg)](https://balbianoluciano.github.io) [![LinkedIn](assets/insignias/linkedin.svg)](https://www.linkedin.com/in/luciano-balbiano/) [![balbiano06@gmail.com](assets/insignias/mail.svg)](mailto:balbiano06@gmail.com)
 
