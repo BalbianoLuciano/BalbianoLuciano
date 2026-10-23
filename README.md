@@ -6,7 +6,7 @@ I lead a team of 3 developers, owning architecture, code review and delivery, an
 
 Buenos Aires, Argentina. EU citizen (Spain), so no sponsorship for European positions. Remote-first.
 
-[![Contributions in the last year, personal and work accounts](assets/contribuciones.svg)](https://github.com/InvisibleGeeksBalbiano)
+[![Contributions in the last year, personal and work accounts](assets/contribuciones.svg?v=3)](https://github.com/InvisibleGeeksBalbiano)
 
 Most of my daily code goes to my work account, [@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano); this one holds the open projects and the side work. The chart adds both up, day by day, from the public contribution data, and a workflow in this repo redraws it once a day.
 
