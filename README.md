@@ -6,6 +6,10 @@ I lead a team of 3 developers, owning architecture, code review and delivery, an
 
 Buenos Aires, Argentina. EU citizen (Spain), so no sponsorship for European positions. Remote-first.
 
+[![Contributions in the last year, personal and work accounts](assets/contribuciones.svg)](https://github.com/InvisibleGeeksBalbiano)
+
+Most of my daily code goes to my work account, [@InvisibleGeeksBalbiano](https://github.com/InvisibleGeeksBalbiano); this one holds the open projects and the side work. The chart adds both up, day by day, from the public contribution data, and a workflow in this repo redraws it once a day.
+
 ---
 
 ## Built with AI
@@ -113,13 +117,3 @@ One design rule runs through all of it: **the system generates, the person decid
 Senior Full Stack · Software Engineer · Tech Lead · Team Leader. Remote worldwide; EU citizen, so no sponsorship is needed for European positions. Spanish native, English B2.
 
 [![Portfolio](assets/insignias/portfolio.svg)](https://balbianoluciano.github.io) [![LinkedIn](assets/insignias/linkedin.svg)](https://www.linkedin.com/in/luciano-balbiano/) [![balbiano06@gmail.com](assets/insignias/mail.svg)](mailto:balbiano06@gmail.com)
-
----
-
-## Where my commits live
-
-Most of my daily code goes to my work account. This one holds the open projects and the side work. The chart is drawn here from the public contribution data, and redrawn once a day by a workflow in this repo.
-
-[![Contributions in the last year at InvisibleGeeksBalbiano](assets/contribuciones.svg)](https://github.com/InvisibleGeeksBalbiano)
-
-[![@InvisibleGeeksBalbiano](assets/insignias/cuenta-trabajo.svg)](https://github.com/InvisibleGeeksBalbiano)
